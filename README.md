@@ -1,12 +1,12 @@
-Overview
+Overview:
 This repository contains my solutions to a multi-part SQL assessment designed to evaluate my ability to extract business insights from relational data. The scenarios cover customer segmentation, transaction behaviour analysis, account activity monitoring, and lifetime value estimation.
 Each query is crafted to balance clarity, performance, and accuracy, with results aligned to realistic business reporting needs.
-Tools & Environment
-SQL Dialect: MySQL
+Tools & Environment:
+SQL Dialect: MySQL,
 Tables Used:
 users_customuser
 plans_plan
-savings_savingsaccount
+savings_savingsaccount,
 Approach: Modular SQL queries using CTEs and conditional aggregations
 
 NB: While the original instructions recommend including comments for complex sections, I have not added any inline comments within the SQL scripts. This is because:
